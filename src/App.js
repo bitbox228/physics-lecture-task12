@@ -210,8 +210,8 @@ const App = () => {
                         layout={{
                             width: '1200',
                             height: '600',
-                            xaxis: {title: 'Радиус, (м)'},
-                            yaxis: {title: 'Интенсивность (Вт/м^2)'},
+                            xaxis: {title: 'Радиус, м'},
+                            yaxis: {title: 'Интенсивность, Вт/м²'},
                         }}
                     />
                 </Col>
